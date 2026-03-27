@@ -5,7 +5,7 @@ A Software Engineer who is excited to build 📱Flutter Mobile Apps and 🖥Back
 Flutter | Spring Boot | .NET | Node.js | Express.js | Firebase | API
 
 ## Programming Languages
-C++ | Java | C# | Dart | SQL
+C++ | Java | C# | JS | Dart | SQL
 
 
 ## Portfolio
