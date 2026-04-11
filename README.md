@@ -10,6 +10,6 @@ C++ | Java | C# | JS | Dart | SQL
 
 ## Portfolio
 
-https://mohammed-amran.github.io/Portfolio/
+https://mohammed-amran.github.io./Portfolio/
 
 
